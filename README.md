@@ -1,5 +1,5 @@
-# LinkedList
+# Data Structure
 
-This is Linked List project I did in CS 241 - Data Structure class 
+These are projects I did in CS241 - Data Structure class
 
-Written in Python 
+All written in Python 
