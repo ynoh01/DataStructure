@@ -1,4 +1,4 @@
-# Yunwoo Noh, Yi Wang CS241 Project1
+# CS241 Project1
 # Score class will be used to create objects that track several aspects (score,
 # level, lives,multiplier) of a player’s performance during an arcade-style game.
 # Scoreboard class will maintain (as long as the program is running) a 
